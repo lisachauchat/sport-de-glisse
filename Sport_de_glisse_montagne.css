@@ -1,0 +1,50 @@
+body{
+	background: url("montagne/titre_montagne.png") no-repeat scroll center top,
+	url("montagne/fond_montagne.jpg") no-repeat fixed 50% 50%,black;
+}
+h1,h2,h3
+{
+	color: white;
+	text-align: center;
+	text-shadow: 6px 6px 10px black;
+}
+h2{
+	font-size: 250%;
+}
+a{
+	color:white;
+}
+h3
+{
+	font-size: 200%;
+	padding-top: 5%;
+}
+h4{
+	color: black;
+	text-align: center;
+	font-size: 250%;
+	border: 6px solid black;
+}
+table{
+	border: 6px solid black;
+	text-align: center;
+	margin-left:15%;
+	margin-right:15%;
+}
+table td, th{
+	border: 2px solid black;
+    font-weight: bold;
+}
+table td{
+	opacity: 0.8;
+	background-color: black;
+}
+p{
+	font-size: 150%;
+	color: white;
+}
+iframe{
+	width: 320px;
+	height: 180px;
+}
+
